@@ -56,8 +56,8 @@
 
 
 
-### Name: AASHIKA JAIN .G
-### Register Number: 24900589
+### Name: VASANTH .V
+### Register Number: 24000697
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
