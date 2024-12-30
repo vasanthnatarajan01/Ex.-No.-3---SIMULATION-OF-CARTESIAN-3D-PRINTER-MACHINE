@@ -47,11 +47,14 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
+
 ## OUTPUT
-![a](https://github.com/user-attachments/assets/49baa279-cd3a-48e9-869c-a654aea7d9c2)
-![b](https://github.com/user-attachments/assets/e797d251-bed1-4abf-a633-88d507b8d720)
-![c](https://github.com/user-attachments/assets/ff592e52-bfe2-451c-83dd-12a0d37387b1)
-![d](https://github.com/user-attachments/assets/ee1eff40-afdd-4fc6-8a93-3a47f3554bfd)
+![Screenshot 2024-1![Screenshot 2024-12-30 183356](https://github.com/user-attachments/assets/c9bb8ecb-d285-4abe-9bf1-f0d9a8764d6c)
+![Screenshot 2024-12-30 183404](https://github.com/user-attachments/assets/7e6aa6de-dc8a-46a4-8350-2305d15f7c8c)
+![Screenshot 2024-12-30 183412](https://github.com/user-attachments/assets/b5affa62-2470-4276-ac0a-edc2943249f3)
+![Screenshot 2024-12-30 183420](https://github.com/user-attachments/assets/76cb8de3-9947-403c-ac2d-bf1ee5fb920e)
+
+
 ![Screenshot 2024-12-16 044811](https://github.com/user-attachments/assets/59b3ebcb-3dc4-46cb-84cb-21f7ec3bb727)
 
 
